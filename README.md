@@ -1,5 +1,6 @@
 # U.S. Banking Sector Financial Analysis (2020–2025)
-<img width="2720" height="1568" alt="repo_banner" src="https://github.com/user-attachments/assets/beab8577-55a0-41a5-92bd-82210aecb4d4" />
+<img width="2449" height="1556" alt="repo_banner" src="https://github.com/user-attachments/assets/a8849056-e891-4431-b773-78b7430d036e" />
+
 ## Project Overview
 This project analyzes the financial performance, profitability, and risk structure of major U.S. commercial banks between 2020 and 2025. The analysis compares institutions across different banking tiers to identify structural differences in profitability, revenue composition, and leverage.
 
