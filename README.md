@@ -57,6 +57,60 @@ The following financial ratios were calculated and analyzed:
 
 ---
 
+## Analytical Methodology
+
+This project applies structured financial ratio analysis to evaluate profitability, leverage, liquidity risk, and revenue diversification across different tiers of U.S. commercial banks.
+
+The analytical framework combines traditional banking performance metrics with the **DuPont decomposition model** to identify the key drivers of bank profitability.
+
+---
+
+### DuPont ROE Decomposition
+
+Return on Equity (ROE) is decomposed using the **DuPont framework**, which separates profitability, operational efficiency, and leverage effects.
+
+ROE is calculated as:
+
+ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
+
+Where:
+
+Net Profit Margin = Net Income / Total Revenue  
+Asset Turnover = Total Revenue / Total Assets  
+Equity Multiplier = Total Assets / Total Equity  
+
+This decomposition allows the analysis to determine whether differences in ROE across banks are primarily driven by profitability margins, asset utilization, or financial leverage.
+
+---
+
+### Financial Performance Metrics
+
+The following financial ratios were calculated to evaluate bank performance:
+```
+| Metric                   | Formula                            | Purpose                                                            |
+| ------------------------ | ---------------------------------- | ------------------------------------------------------------------ |
+| Return on Assets (ROA)   | Net Income / Total Assets          | Measures how efficiently a bank generates profit from its assets   |
+| Return on Equity (ROE)   | Net Income / Total Equity          | Measures shareholder return and overall profitability              |
+| Loan-to-Asset Ratio      | Total Loans / Total Assets         | Indicates the proportion of assets allocated to lending activities |
+| Loan-to-Deposit Ratio    | Total Loans / Total Deposits       | Measures lending intensity and potential liquidity risk            |
+| Noninterest Income Ratio | Noninterest Income / Total Revenue | Evaluates revenue diversification beyond traditional lending       |
+```
+---
+
+### Analytical Approach
+
+The analysis follows a structured workflow:
+
+1. Financial statement data was collected from publicly available sources including SEC filings and bank financial reports.
+
+2. Key financial variables were organized into a structured dataset to allow cross-bank comparisons.
+
+3. Financial ratios were calculated using Excel-based financial modeling.
+
+4. Comparative analysis and visualizations were developed to identify structural differences in profitability, leverage, and revenue composition across banking tiers.
+
+This methodology enables a consistent comparison of financial performance across **money-center banks, super-regional banks, and community banks**.
+
 ## Data Sources
 
 The analysis uses financial statement data from the following sources:
